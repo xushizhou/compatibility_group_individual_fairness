@@ -6,5 +6,7 @@ In this repository, we provide both the implementation of proposed algorithms an
 
 The experiment results are based on the following data sets:
 
+
 CRIME: Communities and Crime Data Set
+
 LSAC: LSAC National Longitudinal Bar Passage Study data set
